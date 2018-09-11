@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#6bbaa7}.cls-4{filter:url(#Ellipse_2)}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Rectangle_39" d="M0 0h600v900H0z" class="cls-1" data-name="Rectangle 39" transform="translate(125.204 7.102)"/>
+        </clipPath>
+        <filter id="Ellipse_2" width="1168" height="1168" x="-581.204" y="-131.102" filterUnits="userSpaceOnUse">
+            <feOffset dx="3" dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="Mask_Group_1" class="cls-2" data-name="Mask Group 1">
+        <g class="cls-4" transform="translate(-.004 -.002)">
+            <circle id="Ellipse_2-2" cx="575" cy="575" r="575" class="cls-3" data-name="Ellipse 2" transform="translate(-575.2 -125.1)"/>
+        </g>
+    </g>
+</svg>

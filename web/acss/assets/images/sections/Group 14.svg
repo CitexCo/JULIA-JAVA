@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 916.044 222.683">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px}
+        </style>
+    </defs>
+    <g id="Group_14" data-name="Group 14" transform="translate(-488.586 -829)">
+        <g id="Pointer_Corner_2" data-name="Pointer Corner #2" transform="rotate(90 -153.385 675.615)">
+            <path id="Shape" d="M90.346 16.9V0H0" class="cls-1"/>
+            <path id="Shape-2" d="M6.974 14.067a7.034 7.034 0 1 1 6.974-7.034 7 7 0 0 1-6.974 7.034z" class="cls-1" data-name="Shape" transform="translate(83.372 17.783)"/>
+        </g>
+        <g id="Pointer_Corner_2-2" data-name="Pointer Corner #2" transform="rotate(90 -43.272 785.728)">
+            <path id="Shape-3" d="M121.091 238.081V0H0" class="cls-1" data-name="Shape"/>
+            <path id="Shape-4" d="M6.974 14.067a7.034 7.034 0 1 1 6.974-7.034 7 7 0 0 1-6.974 7.034z" class="cls-1" data-name="Shape" transform="translate(114.338 238.081)"/>
+        </g>
+        <g id="Pointer_Corner_2-3" data-name="Pointer Corner #2" transform="rotate(90 66.73 895.951)">
+            <path id="Shape-5" d="M152.056 458.38V0H0" class="cls-1" data-name="Shape"/>
+            <path id="Shape-6" d="M6.974 14.067a7.034 7.034 0 1 1 6.974-7.034 7 7 0 0 1-6.974 7.034z" class="cls-1" data-name="Shape" transform="translate(145.082 458.38)"/>
+        </g>
+        <g id="Pointer_Corner_2-4" data-name="Pointer Corner #2" transform="rotate(90 176.842 1006.064)">
+            <path id="Shape-7" d="M183.022 678.678V0H0" class="cls-1" data-name="Shape"/>
+            <path id="Shape-8" d="M6.974 14.067a7.034 7.034 0 1 1 6.974-7.034 7 7 0 0 1-6.974 7.034z" class="cls-1" data-name="Shape" transform="translate(176.048 678.678)"/>
+        </g>
+        <g id="Pointer_Corner_2-5" data-name="Pointer Corner #2" transform="rotate(90 286.954 1116.176)">
+            <path id="Shape-9" d="M213.988 898.977V0H0" class="cls-1" data-name="Shape"/>
+            <path id="Shape-10" d="M6.974 14.067a7.034 7.034 0 1 1 6.974-7.034 7 7 0 0 1-6.974 7.034z" class="cls-1" data-name="Shape" transform="translate(207.013 898.977)"/>
+        </g>
+    </g>
+</svg>

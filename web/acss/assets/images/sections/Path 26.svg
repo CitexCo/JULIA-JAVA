@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 572 152">
+    <defs>
+        <style>
+            .cls-1{fill:#6bbaa7}.cls-2{filter:url(#Path_26)}
+        </style>
+        <filter id="Path_26" width="572" height="152" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="-2"/>
+            <feGaussianBlur result="blur" stdDeviation="2"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g class="cls-2">
+        <path id="Path_26-2" d="M-27 160.615l90-9.692 68-21.538h147.732L364 113.231l103-4.846L533 89v140H-27z" class="cls-1" data-name="Path 26" transform="translate(33 -81)"/>
+    </g>
+</svg>

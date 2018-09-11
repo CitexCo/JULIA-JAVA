@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1174 278">
+    <defs>
+        <style>
+            .cls-1{fill:#fff;stroke:#6bbaa7;stroke-width:2px}.cls-2{stroke:none}.cls-3{fill:none}.cls-4{filter:url(#Ellipse_3-5)}.cls-5{filter:url(#Ellipse_3-4)}.cls-6{filter:url(#Ellipse_3-3)}.cls-7{filter:url(#Ellipse_3-2)}.cls-8{filter:url(#Ellipse_3)}
+        </style>
+        <filter id="Ellipse_3" width="278" height="278" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Ellipse_3-2" width="278" height="278" x="224" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur-2" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Ellipse_3-3" width="278" height="278" x="448" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur-3" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur-3" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Ellipse_3-4" width="278" height="278" x="672" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur-4" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur-4" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Ellipse_3-5" width="278" height="278" x="896" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur-5" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur-5" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="Circles">
+        <g class="cls-8">
+            <g id="Ellipse_3-6" class="cls-1" data-name="Ellipse 3" transform="translate(9 6)">
+                <circle cx="130" cy="130" r="130" class="cls-2"/>
+                <circle cx="130" cy="130" r="129" class="cls-3"/>
+            </g>
+        </g>
+        <g class="cls-7">
+            <g id="Ellipse_3-7" class="cls-1" data-name="Ellipse 3" transform="translate(233 6)">
+                <circle cx="130" cy="130" r="130" class="cls-2"/>
+                <circle cx="130" cy="130" r="129" class="cls-3"/>
+            </g>
+        </g>
+        <g class="cls-6">
+            <g id="Ellipse_3-8" class="cls-1" data-name="Ellipse 3" transform="translate(457 6)">
+                <circle cx="130" cy="130" r="130" class="cls-2"/>
+                <circle cx="130" cy="130" r="129" class="cls-3"/>
+            </g>
+        </g>
+        <g class="cls-5">
+            <g id="Ellipse_3-9" class="cls-1" data-name="Ellipse 3" transform="translate(681 6)">
+                <circle cx="130" cy="130" r="130" class="cls-2"/>
+                <circle cx="130" cy="130" r="129" class="cls-3"/>
+            </g>
+        </g>
+        <g class="cls-4">
+            <g id="Ellipse_3-10" class="cls-1" data-name="Ellipse 3" transform="translate(905 6)">
+                <circle cx="130" cy="130" r="130" class="cls-2"/>
+                <circle cx="130" cy="130" r="129" class="cls-3"/>
+            </g>
+        </g>
+    </g>
+</svg>

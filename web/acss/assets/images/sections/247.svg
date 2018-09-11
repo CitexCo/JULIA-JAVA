@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 194.234 195.602">
+    <defs>
+        <style>
+            .cls-1,.cls-3{fill:none;stroke:#6c648b;stroke-linecap:round;stroke-miterlimit:10;stroke-width:6px}.cls-2{fill:#6c648b}.cls-3{stroke-dasharray:8 22}.cls-4{fill:#fba100;font-size:68px;font-family:Corbel-Bold,Corbel;font-weight:700}.cls-5{fill:#b6a19e}
+        </style>
+    </defs>
+    <g id="_247" data-name="247" transform="translate(.5 .5)">
+        <path id="Path_46" d="M95.726 191.6C43.965 191.6 2 149.156 2 96.8S43.965 2 95.726 2c44.384 0 81.088 28.012 90.643 68.991" class="cls-1" data-name="Path 46"/>
+        <path id="Path_47" d="M294 107.335l10.28 25.382 3.628-27.217z" class="cls-2" data-name="Path 47" transform="translate(-115.408 -40.179)"/>
+        <path id="Path_48" d="M257.59 165.749c0 23.35-5.44 32.843-15.814 48.648-12.644 19.264-46.1 39.161-74.777 39.161" class="cls-3" data-name="Path 48" transform="translate(-66.856 -61.777)"/>
+        <text id="_24_hr" class="cls-4" data-name="24 hr" transform="translate(102.643 118.073)">
+            <tspan x="-72.831" y="0">24 </tspan><tspan y="0" class="cls-5">hr</tspan>
+        </text>
+    </g>
+</svg>
